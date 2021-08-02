@@ -7,3 +7,5 @@ Features:
 - Option to delete a single input (via backspace-key) or clear the whole display (via esc-key).
 
 For live preview check out following link:
+
+https://e-d-i.github.io/theOdinProject-calculator/
