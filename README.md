@@ -5,3 +5,5 @@ A simple creation of an on-screen calculator with basic mathematical operations 
 Features:
 - Calcualtor contains keyboard support.
 - Option to delete a single input (via backspace-key) or clear the whole display (via esc-key).
+
+For live preview check out following link:
