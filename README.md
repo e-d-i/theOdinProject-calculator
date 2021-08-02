@@ -1,6 +1,6 @@
 # theOdinProject-calculator
 
-A simple creation of an on-screen calculator with basic mathematical operations including addition, subtraction, multiplication and division built with HTML, CSS and JavaScript.
+A simple creation of an on-screen calculator with basic mathematical operations including decimals, addition, subtraction, multiplication and division built with HTML, CSS and JavaScript.
 
 Features:
 - Calculator contains keyboard support.
